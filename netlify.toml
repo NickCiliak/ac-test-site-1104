@@ -9,4 +9,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.net cdn.syndication.twimg.com *.google.com *.twitter.com *.gstatic.com *.googleapis.com cdn.rawgit.com *.google-analytics.com *.googleadservices.com *.licdn.com https://cdn.jsdelivr.net/npm/froala-editor@3.1.0 *.app-us1.com *.trackcmp.net; report-uri /csp_report.php;"
+    Content-Security-Policy = "script-src 'self' 'unsafe-inline' 'unsafe-eval';"
